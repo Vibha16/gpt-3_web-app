@@ -1,0 +1,3 @@
+[submodule "gptFrontend"]
+	path = gptFrontend
+	url = https://github.com/Vibha16/study-notes.git
